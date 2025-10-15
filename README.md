@@ -44,19 +44,6 @@ Sou apaixonado por tecnologia e resolução de problemas. Atualmente, estou em t
 </div>
 
 ---
-
-## 🧩 Projetos que representam meu trabalho
-
-| 🚀 Projeto | 🧠 Descrição | 🛠️ Stack |
-|------------|--------------|-----------|
-| **DiskHelp** | Marketplace que conecta prestadores autônomos a clientes. | React Native · .NET · PostgreSQL |
-| **myGAs** | App que calcula o gasto de combustível em tempo real. | React Native · API de preços · Calibração dinâmica |
-| **DividaPaga** | Controle de dívidas compartilhadas entre amigos. | Next.js · Node.js · PostgreSQL |
-| **SendMeMidia** | Envio de fotos/vídeos sem perder qualidade. | React · Node/TS · MongoDB · S3 |
-| **Açaí do Aço** | Landing page com parallax e design vibrante. | React · TailwindCSS |
-
-> 🔗 Explore meus repositórios para ver o progresso e código em ação.
-
 ---
 
 ## 📊 Estatísticas GitHub
