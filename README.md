@@ -1,68 +1,91 @@
-# 👨‍💻 Hey, eu sou o Theylon Augusto!
+<!-- Banner / Headline -->
+<h1 align="center">Olá! Eu sou o Theylon Siqueira 👋</h1>
+<p align="center">
+  <b>Full-Stack Developer</b> em formação · Timóteo — MG, Brasil<br/>
+  Engenharia de Software (Unileste) · apaixonado por produtos úteis, performance e UX
+</p>
 
-🎓 Estudante de **Engenharia de Software** (Unileste - 07/2023 a 06/2027)  
-💻 Focado em me tornar **Desenvolvedor Fullstack**  
-🚀 Apaixonado por tecnologia, inovação e construção de soluções que conectam pessoas  
-
----
-
-## 🛠️ Tecnologias & Habilidades
-
-### 🚀 Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/-Vue.js-42B883?logo=vue.js&logoColor=fff&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff&style=for-the-badge)
-
-### 🗄️ Banco de Dados
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge)
-
-### 🔧 Ferramentas & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?logo=github-actions&logoColor=fff&style=for-the-badge)
+<p align="center">
+  <a href="https://www.linkedin.com/in/theylon-siqueira-44a327257" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Theylon%20Siqueira-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/ProssimalCrost" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ProssimalCrost-181717?logo=github&logoColor=white">
+  </a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ProssimalCrost&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProssimalCrost&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProssimalCrost&layout=compact&theme=radical)
-
-</div>
+## 🚀 Sobre mim
+- Técnico de Informática migrando para **Desenvolvimento Full-Stack** (JS/TS, React, Node.js, .NET).
+- Experiência com **Git, Docker, CI/CD** e boas práticas (REST, SOLID, Clean Code).
+- **Banco de dados**: PostgreSQL, MongoDB, SQLite; mapeamento com **EF Core**.
+- Interessa-me construir soluções **simples, rápidas e escaláveis** para problemas reais.
 
 ---
 
-## 📌 Projetos em Destaque
-
-- **PetConnect** 🐾 → Plataforma que conecta tutores de pets a prestadores de serviços  
-- **DiskHelp** 🔧 → Aplicativo para conectar profissionais autônomos a clientes  
-- **myGAs** ⛽ → App para motoristas calcularem gasto real de combustível  
-- **DividaPaga** 💸 → Web app para gestão de dívidas compartilhadas  
-
-*(e muito mais no meu [Portfólio](https://prossimalcrost.netlify.app/))*  
-
----
-
-## 🎯 Objetivo
-Atualmente em transição para área de desenvolvimento, buscando atuar como **Fullstack Developer** em projetos que unam inovação, performance e impacto real.
-
----
-
-📫 **Conecte-se comigo:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/theylonsiqueira)  
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:theylon.siqueira@gmail.com)  
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?logo=vercel&logoColor=fff&style=for-the-badge)](https://prossimalcrost.netlify.app/)  
+## 🧰 Stack & Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-4%2B-3178C6?logo=typescript&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Next.js-14-000000?logo=nextdotjs&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Node.js-18-339933?logo=nodedotjs&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/.NET-7/8-512BD4?logo=dotnet&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/EF%20Core-ORM-6D429B?logo=dotnet&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-DB-4169E1?logo=postgresql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MongoDB-DB-47A248?logo=mongodb&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?logo=docker&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Git-Workflow-F05032?logo=git&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-UI-06B6D4?logo=tailwindcss&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Data-F2C811?logo=powerbi&logoColor=000"/>
+</p>
 
 ---
 
-✨ *"Transformando ideias em código e desafios em soluções."*
+## 🗂️ Projetos em destaque
+> *Alguns ainda em construção; links serão adicionados à medida que os repositórios forem publicados.*
+
+- **DiskHelp** — marketplace que conecta prestadores autônomos (faxina, elétrica, mecânica) a clientes. *React Native · .NET · PostgreSQL · Maps · SignalR.*
+- **myGAs** — calcula gasto de combustível por percurso (app p/ motoristas). *React Native · API preços combustíveis · calibração de consumo.*
+- **DividaPaga** — gestão de dívidas compartilhadas entre amigos. *Next.js · Node/Express ou .NET · PostgreSQL/MongoDB · JWT.*
+- **SendMeMidia** — envio de fotos/vídeos sem perder qualidade (links temporários). *React · Node/TS · MongoDB · S3/Firebase Storage.*
+- **TechSpace** — mini rede social com Firebase/React (estudos).
+- **Carona Solidária (Unileste)** — app acadêmico para caronas (Scrum/XP).
+- **Açaí do Aço (Landing)** — landing page com React/Tailwind e parallax.
+
+> 👉 Veja mais nos repositórios públicos e pins.
+
+---
+
+## 📊 Métricas rápidas
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ProssimalCrost&show_icons=true&include_all_commits=true&count_private=true&hide_title=false"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ProssimalCrost"/>
+</p>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProssimalCrost&layout=compact&langs_count=8"/>
+</p>
+
+---
+
+## 🎯 Agora
+- Estudando **arquitetura full-stack** e **boas práticas** (Clean Architecture/DDD).
+- Otimizando projetos para **desempenho** e **experiência do usuário**.
+- Abert@ a **estágio/trainee** em desenvolvimento.
+
+---
+
+## 🤝 Como colaborar
+- Abra uma **issue** para ideias, bugs ou sugestões.
+- Envie um **PR** — curto e objetivo, com descrição clara.
+- Vamos trocar: **code reviews**, arquitetura, dados e DevOps são sempre bem-vindos.
+
+---
+
+## 📫 Contato
+- **LinkedIn:** <a href="https://www.linkedin.com/in/theylon-siqueira-44a327257" target="_blank">@theylon-siqueira</a>  
+- **GitHub:** <a href="https://github.com/ProssimalCrost" target="_blank">@ProssimalCrost</a>
+
+> “Build small, ship rápido, melhorar sempre.” 🚀
